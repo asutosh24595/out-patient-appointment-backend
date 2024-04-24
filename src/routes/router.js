@@ -1,6 +1,5 @@
 import express from "express";
 import DoctorDetail from "../models/doctorDetail.js";
-import PatientData from "../models/patientBooking.js";
 import AvailData from "../models/availability.js";
 
 const router = express.Router();
